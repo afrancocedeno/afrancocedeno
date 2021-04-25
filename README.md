@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 -->
 
 <h3 align="left">What I've been contributing:</h3>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=afrancocedeno&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&hide=issues" alt="David's Github Stats">
-</p>
+<!-- <p align="left"></p> -->
+
+
+![Alejandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+
 <h3 align="left">This is with I am strog:</h3>
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrancocedeno&hide=CSS,jupyter%20notebook&layout=compact&langs_count=10&text_color=daf7dc&bg_color=151515" alt="David's Top Langs">
