@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Twitter Badge](https://img.shields.io/badge/-@afrancocedeno-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=afrancocedeno "Follow on Twitter")
+[![Linkedin Badge](https://img.shields.io/badge/-afrancocedeno-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wisvem/)](https://www.linkedin.com/in/afrancocedeno/)
+[![Instagram Badge](https://img.shields.io/badge/-afrancocedeno_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/wisvem/)](https://instagram.com/afrancocedeno)
